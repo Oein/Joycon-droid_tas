@@ -1,6 +1,5 @@
 # Joycon droid tas
 
-# Joycon droid Tas
 # 1.Tas 버튼
 ```
 +1-시간 키 L스틱X;L스틱Y R스틱X;R스틱Y
